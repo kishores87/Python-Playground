@@ -12,7 +12,6 @@ lenghtofRandomWord = len(randomWord)
 guessCount=6
 finalGuess= []
 
-
 for x in range(lenghtofRandomWord):
     print("_")
 
