@@ -5,7 +5,7 @@ from collections import Counter
 someWords = "apple banana mango strawberry"
 someWords = someWords.split(' ')
 word = random.choice(someWords)
-print(word)
+
 
 if __name__ == "__main__":
     print('Guess the fruit name')
